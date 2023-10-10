@@ -68,7 +68,7 @@ playAgain();
 
 /*
 EXAMPLE CODE 
-Provided in class for study
+Provided in class after problem completion for further study 
 
 
 const scores = {}; 
